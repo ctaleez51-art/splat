@@ -1,0 +1,18 @@
+# 올리지 않는 것 — 과제 4단계 파일 목록에 없는 것들
+
+# 100MiB 넘어 깃허브가 거부하는 것
+scene.ply
+
+# 중간 재료
+scene_points.npz
+scene.compressed.ply
+scene.spz
+scene2.spz
+scene_gz.spz
+frames.zip
+frames/
+video/
+
+# 작업용
+HANDOFF.md
+*.py
